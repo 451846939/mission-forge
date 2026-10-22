@@ -1,4 +1,38 @@
 {
   "github_id": 67498110,
-  "github_login": "Horacen"
+  "github_login": "Horacen",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-31",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v1",
+        "sha": "335b576257d6aecd3720c0d5bfb209f36be2b01f"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 31
+        },
+        "actor": 67498110,
+        "at": "2026-10-22T14:22:49Z",
+        "digest": "c3ae3a3092cbe567b7276f2ff8c1674c745b6a64fb81ae57c21e96c1e2027df5",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/31\",\"merge_commit\":\"d36d0887fd3c107b08d1edd48c4ee56f630a339b\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 31
+  },
+  "updated_at": "2026-10-22T14:22:49Z"
 }
