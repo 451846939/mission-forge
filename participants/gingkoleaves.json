@@ -1,4 +1,38 @@
 {
   "github_id": 176694783,
-  "github_login": "Gingkoleaves"
+  "github_login": "Gingkoleaves",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-56",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v2",
+        "sha": "67501ff31a14a5510d1632013f187e9374143b33"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 56
+        },
+        "actor": 176694783,
+        "at": "2026-10-25T06:07:01Z",
+        "digest": "e06ce39b9f199ef6ae573f99835331dbb352c07ec561fbcc020f267b977513de",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/56\",\"merge_commit\":\"b3b81965aeeeb4bbb191580944db62054c6a8f11\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 56
+  },
+  "updated_at": "2026-10-25T06:07:01Z"
 }
