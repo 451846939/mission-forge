@@ -1,4 +1,38 @@
 {
   "github_id": 177202540,
-  "github_login": "braveloop"
+  "github_login": "braveloop",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-69",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v2",
+        "sha": "67501ff31a14a5510d1632013f187e9374143b33"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 69
+        },
+        "actor": 177202540,
+        "at": "2026-10-26T11:53:58Z",
+        "digest": "cce496b20024254ca55a0b07ef959a7460c220bd9eb4d67c00d260ff69d4aa85",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/69\",\"merge_commit\":\"7c2a898793cca82419ef48cbc5decebd16a9b6c5\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 69
+  },
+  "updated_at": "2026-10-26T11:53:58Z"
 }
