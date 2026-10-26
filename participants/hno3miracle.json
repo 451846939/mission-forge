@@ -1,4 +1,38 @@
 {
   "github_id": 37094779,
-  "github_login": "HNO3Miracle"
+  "github_login": "HNO3Miracle",
+  "schema_version": 1,
+  "level": 1,
+  "experience": 0,
+  "contributions": [],
+  "promotions": [
+    {
+      "id": "registration-66",
+      "from": 0,
+      "to": 1,
+      "policy": {
+        "id": "2026.v2",
+        "sha": "67501ff31a14a5510d1632013f187e9374143b33"
+      },
+      "proof": {
+        "source": {
+          "kind": "registration",
+          "pr": 66
+        },
+        "actor": 37094779,
+        "at": "2026-10-26T09:48:00Z",
+        "digest": "d8a746e35d6f4b5ca55ecda134de85000d2d6c734ad88f6a0e1b22cded730108",
+        "details": "{\"registration_pr\":\"https://github.com/processmission-intern/mission-forge/pull/66\",\"merge_commit\":\"235e73ac2446a2feefe9ec20f902c44e6cdf5a66\"}"
+      },
+      "reason": "Identity registration PR merged.",
+      "evidence": [],
+      "review_pr": null
+    }
+  ],
+  "adjustments": [],
+  "last_event": {
+    "kind": "registration",
+    "pr": 66
+  },
+  "updated_at": "2026-10-26T09:48:00Z"
 }
